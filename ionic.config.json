@@ -1,0 +1,7 @@
+{
+  "name": "PracticaApiRest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
